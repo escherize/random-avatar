@@ -1,14 +1,5 @@
 # random-avatar
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library designed to wrap the java library at https://github.com/hackrslab/random-avatar which makes randomized avatars, like this:
 
-## Usage
-
-FIXME
-
-## License
-
-Copyright © 2015 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+![avatar for 'lemon'](resources/lemon_copy.png)
