@@ -3,8 +3,7 @@
            (org.hackrslab.avatar
             RandomAvatarBuilder
             RandomAvatar
-            RandomAvatar$Extra))
-  (:require [clojure.string :as str]))
+            RandomAvatar$Extra)))
 
 (defn build-generator ^RandomAvatar []
   (-> (RandomAvatarBuilder.)
